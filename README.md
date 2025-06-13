@@ -1,53 +1,60 @@
-# University Management Platform 🎓
+# Alumni Platform 👨‍🎓👩‍🎓
 
-A modern frontend **Fully** **responsive** ui design application for managing university-related activities such as student records, academic modules, exam tracking, and announcements — built using **React**, **Tailwind CSS**, and **TypeScript**.
+A responsive frontend application that facilitates alumni-student interaction, job updates, mentoring support, and networking — built using **React.js**, **TypeScript**, and **Tailwind CSS**.
 
+---
 
 ## 🛠 Tech Stack
 
-- **React.js** (with TypeScript)
+- **React.js** (with **TypeScript**)
 - **Tailwind CSS**
 - **React Router DOM**
-- **Component-based architecture**
-- **Vite** (for fast builds)
-- **TypeScript** (for type safety)
+- **Component-based Architecture**
+- **Vite** (Build Tool)
+- **JavaScript (ES6+)**
 
 ---
 
 ## 🚀 Features
 
-- 📋 **Student Management**: View and manage student data with structured UI.
-- 📚 **Academic Modules**: Categorized section for syllabus, schedules, and subjects.
-- 🧪 **Exam Tracking**: Display of exam dates, formats, and statuses.
-- 📢 **Announcement Panel**: Dynamic area for university-wide notices and alerts.
-- 📱 **Responsive UI**: Fully optimized for mobile, tablet, and desktop.
+- 💬 Real-time Chat UI _(Frontend layout only)_
+- 🧑‍💼 Job Board UI for latest opportunities
+- 🎓 Mentorship Section to connect students with alumni
+- 🔍 Alumni Directory with search feature
+- 📱 Responsive across all screen sizes
+- 🌗 Dark Mode Ready _(Optional)_
 
 ---
 
+## 📸 Screenshots
 
+### 🔐 Login Page
+
+![Login](./src/assets/Login.png)
+
+### 🏠 Dashboard / Home Page
+
+![Home](./src/assets/Home.png)
+
+### 🧑‍💼 Job Listings
+
+![Jobs](./src/assets/Jobs.png)
+
+### 👥 Alumni Directory
+
+![Directory](./src/assets/Network.png)
+
+### 💬 Chat Interface
+
+![Chat](./src/assets/Chat.png)
+
+---
+
+## 🧑‍💻 Getting Started Locally
 
 ```bash
-git clone https://github.com/Bharatgwl/University-Management-Platform
-cd University-Management-Platform
+git clone https://github.com/Bharatgwl/Alumni-Platform.git
+cd Alumni-Platform
 npm install
 npm run dev
 ```
-
-
-## 📸 Screenshots
-
-
-
-### 🎯 Dashboard View
-![Dashboard](./src/assets/Dashboard.png)
-
-### 👨‍💼💼 Admin Panel
-![Academic Module](./src/assets/Admin_panel.png)
-
-### 📢 Fee_structure Panel
-![Announcements](./src/assets/Fee_structure.png)
-
-### 📢 student_portal
-![Announcements](./src/assets/student_portal.png)
-
-
